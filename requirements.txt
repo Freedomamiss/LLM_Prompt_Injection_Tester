@@ -1,0 +1,4 @@
+# LLM Prompt Injection Tester v1
+# Minimal dependencies for a beginner-friendly CLI security testing project
+
+pytest>=8.2.0
