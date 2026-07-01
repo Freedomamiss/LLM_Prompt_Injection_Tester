@@ -197,6 +197,24 @@ Only test systems you own or have explicit permission to evaluate.
 python -m pytest
 ```
 
+## Screenshots
+
+### Unit Tests Passing
+
+![Unit tests passing](screenshots/01-pytest-pass.png)
+
+### Mock Mode Run
+
+![Mock mode run](screenshots/02-mock-run.png)
+
+### GitHub Repository
+
+![GitHub repository](screenshots/03-github-repo.png)
+
+### Generated Markdown Report
+
+![Generated Markdown report](screenshots/04-sample-report.png)
+
 ## License
 
 This project is released under the MIT License.
