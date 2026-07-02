@@ -1,3 +1,5 @@
+[![Python Tests](https://github.com/Freedomamiss/LLM_Prompt_Injection_Tester/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Freedomamiss/LLM_Prompt_Injection_Tester/actions/workflows/python-tests.yml)
+
 # LLM Prompt Injection Tester v1
 
 A beginner-friendly, defensive AI security command-line tool for testing how an LLM responds to prompt-injection attempts.
